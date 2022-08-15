@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Fof_rwinescanApp: App {
+struct For_winescanApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
