@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/zaitsukenichiro/swift_study/wine/Fof-rwinescan/For-winescan.xcodeproj">
    </FileRef>
 </Workspace>
